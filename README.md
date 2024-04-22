@@ -1,2 +1,5 @@
-# cpp-advanced-vector
-Финальный проект: улучшенный контейнер вектор
+# Class Vector
+# Project overview
+Class Vector - собственная реализация контейнера std::vector. 
+# Requirements
+C++17
